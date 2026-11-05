@@ -1,2 +1,14 @@
-# git-tutorial
-for learning git
+# Planning
+ENTITIES:
+-Characters
+    - Player
+      - MAGE
+      - ARCHERS
+      - WARRIORS
+      - ROGUE
+    - Enemies
+      - WITCHES
+      - ORC
+      - GOBLIN
+
+-Quests
